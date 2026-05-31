@@ -2,6 +2,8 @@
 name = "lau-port"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-port"
 description = "LAU Port — a protocol-agnostic connection layer for agents"
 
 [dependencies]
